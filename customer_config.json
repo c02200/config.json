@@ -1,0 +1,393 @@
+{
+  "customer": {
+    "apk_associate": "true",
+    "app_keptlive": "true",
+    "default_location_latitute": "30.016666666667",
+    "default_location_longtitute": "31.2",
+    "gamepad_tips_show": "true",
+    "guest_ip_available": "true",
+    "joystick_function": "true",
+    "keymap_tips_show": "true",
+    "network_bridge_opened": "false",
+    "network_current_bridge_card": "",
+    "network_dns1": "",
+    "network_dns2": "",
+    "network_gateway": "0.0.0.0",
+    "network_ip_address": "0.0.0.0",
+    "network_ip_mode": "dhcp",
+    "network_subnet_mask": "",
+    "pc_sleep": "true",
+    "quit_directly": "true",
+    "run_limitation": "false"
+  },
+  "setting": {
+    "disk_share": {
+      "mode": {
+        "choose": "disk_share.mode.writable"
+      }
+    },
+    "display_setting": {
+      "multi_tag": {
+        "mode": "1"
+      }
+    },
+    "environment": {
+      "cpu": {
+        "best": "4",
+        "max": "12"
+      },
+      "memory": {
+        "best": "4",
+        "max": "16"
+      },
+      "screen": {
+        "dpr": "1.000000",
+        "height": "1080",
+        "width": "1920"
+      }
+    },
+    "frame_setting": {
+      "desired_framerate": "240",
+      "display_framerate": "1",
+      "dynamic_adjust_framerate": "0",
+      "fps_limit_low": "15",
+      "max_frame_rate_limit": "240",
+      "vertical_sync": "0"
+    },
+    "gpu": {
+      "mode": {
+        "choose": "gpu.mode.preset"
+      },
+      "model": "Adreno (TM) 640"
+    },
+    "input": {
+      "setting": {
+        "key": {
+          "tip": {
+            "editable": "0"
+          }
+        }
+      }
+    },
+    "level": {
+      "user": {
+        "computer": "middle",
+        "cpu": "middle",
+        "gpu": "high",
+        "memory": "high"
+      }
+    },
+    "network_setting": {
+      "bridge_mode": "0",
+      "current_bridge_card": "",
+      "dns1": "",
+      "dns2": "",
+      "gateway": "0.0.0.0",
+      "ip_address": "0.0.0.0",
+      "ip_mode": {
+        "choose": "network_setting.ip_mode.dhcp"
+      },
+      "subnet_mask": ""
+    },
+    "other_optimization": {
+      "separate_graphics_card": "1"
+    },
+    "other_setting": {
+      "adb_debug_setting": {
+        "mode": {
+          "choose": "other_setting.adb_debug_setting.mode.remote_connect"
+        }
+      },
+      "apk_association": "1",
+      "app_keptlive": "1",
+      "joystick_function": "1",
+      "pc_sleep": "1",
+      "quit_setting": {
+        "mode": {
+          "choose": "other_setting.quit_setting.mode.directexit"
+        }
+      },
+      "root_mode": "1",
+      "run_limitation": "0",
+      "use_system_default_mouse": "1"
+    },
+    "performance": {
+      "mode": {
+        "choose": "performance.mode.high",
+        "custom": {
+          "cpu": "12",
+          "memory": "16.000000"
+        },
+        "high": {
+          "cpu": "6",
+          "memory": "6"
+        },
+        "low": {
+          "cpu": "1",
+          "memory": "1"
+        },
+        "middle": {
+          "cpu": "4",
+          "memory": "4"
+        }
+      }
+    },
+    "phone": {
+      "brand": "Samsung",
+      "code": "RESERVED",
+      "imei": "863515042294697",
+      "manufacturer": "Samsung",
+      "miit": "SM-X910",
+      "mode": {
+        "choose": "phone.mode.custom"
+      },
+      "model": "S25 Ultra",
+      "number": "",
+      "vdid": "2db63010-39b5-420e-8a1c-4c5cda43e864"
+    },
+    "player": {
+      "window": {
+        "fullscreen": "0",
+        "height": "-1",
+        "left": "-1",
+        "max": "0",
+        "monitor": "-1",
+        "remember": "0",
+        "top": "-1",
+        "width": "-1"
+      },
+      "window_size": {
+        "fixed": "0"
+      }
+    },
+    "record": {
+      "time": {
+        "first": "0"
+      }
+    },
+    "render": {
+      "avalibale": {
+        "directx": "1",
+        "vulkan": "1"
+      },
+      "mode": {
+        "choose": "render.mode.highperformance",
+        "highperformance": "Vulkan",
+        "stable": "DirectX"
+      }
+    },
+    "resolution": {
+      "current": "1920.000000:1080.000000:180.000000",
+      "mode": {
+        "choose": "resolution.mode.custom",
+        "custom": "1920.000000:1080.000000:180.000000",
+        "intelligence": "1600:900:240",
+        "intelligence_enable": "0",
+        "intelligence_preselect_enable": "0",
+        "phone": "0.000000:0.000000:0.000000",
+        "tablet": "0.000000:0.000000:0.000000",
+        "widescreen": "0.000000:0.000000:0.000000"
+      }
+    },
+    "rotation_setting": {
+      "mode": {
+        "choose": "rotation_setting.mode.auto"
+      }
+    },
+    "screen_setting": {
+      "brightness": "50",
+      "max_brightness": "100",
+      "style": {
+        "choose": "screen_setting.style.common"
+      }
+    },
+    "shortcut": {
+      "automute": "1",
+      "disable_zoom_screen": "1",
+      "enable_esc_as_quit_full_screen": "1",
+      "enable_switch_tab_to_target": "0",
+      "keys": {
+        "apk_install": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "boss_key": {
+          "conflict": "0",
+          "local_conflict": "0",
+          "text": "Alt+Q"
+        },
+        "file_transfer": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "full_screen_mode": {
+          "conflict": "0",
+          "text": "F11"
+        },
+        "game_tools": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "go_home": {
+          "conflict": "0",
+          "text": "Home"
+        },
+        "gps": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "joystick": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "keymap": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "keymap_config_next": {
+          "conflict": "0",
+          "text": "Ctrl+]"
+        },
+        "keymap_config_previous": {
+          "conflict": "0",
+          "text": "Ctrl+["
+        },
+        "keymap_tip": {
+          "conflict": "0",
+          "text": "F12"
+        },
+        "lock_screen": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "mini_mode": {
+          "conflict": "0",
+          "text": "Alt+G"
+        },
+        "multi_player": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "mute": {
+          "conflict": "0",
+          "text": "Ctrl+0"
+        },
+        "operate_record": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "overseas_acceleration": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "pause_or_continue_operate_record": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "pause_or_continue_operate_script": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "pause_or_continue_screen_record": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "pause_or_continue_sync": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "return_back": {
+          "conflict": "0",
+          "text": "Esc"
+        },
+        "screen_record": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "screenshot": {
+          "conflict": "0",
+          "has_modify": "1",
+          "text": "F9"
+        },
+        "scroll_screen": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "shake": {
+          "conflict": "0",
+          "text": "Ins"
+        },
+        "start_or_end_operate_record": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "start_or_end_screen_record": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "start_or_end_sync": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "stop_operate_record_script": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "switch_tab": {
+          "conflict": "0",
+          "text": "Ctrl+Tab"
+        },
+        "switch_to_target_tab": {
+          "conflict": "0",
+          "text": "Ctrl+1~9"
+        },
+        "volume_turn_down": {
+          "conflict": "0",
+          "text": "Ctrl+Down"
+        },
+        "volume_turn_up": {
+          "conflict": "0",
+          "text": "Ctrl+Up"
+        },
+        "window_top": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "zoom_in_screen": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "zoom_out_screen": {
+          "conflict": "0",
+          "text": "null"
+        },
+        "zoom_screen": {
+          "conflict": "0",
+          "text": "Ctrl + mouse wheel"
+        }
+      },
+      "mouse_right_btn_as_return_back": "0"
+    },
+    "toolbar": {
+      "topmost_items": "kUnknown,kKeymap,kVolume,kBack"
+    },
+    "ui_setting": {
+      "mode": {
+        "choose": "ui_setting.mode.hideallui"
+      }
+    },
+    "video_memory": {
+      "strategy": {
+        "choose": "video_memory.strategy.auto"
+      }
+    },
+    "volume_setting": {
+      "loudspeaker": "Speakers (Realtek(R) Audio)",
+      "microphone": "Mic in at rear panel (Pink) (Realtek(R) Audio)",
+      "system_volume": {
+        "close": "0",
+        "max": "0"
+      }
+    }
+  }
+}
